@@ -35,10 +35,7 @@ with DAG(
 ) as dag:
     task1 = PythonOperator(
         task_id='greet',
-        python_callable=greet,
-        op_kwargs={
-            "age": 54
-        }
+        python_callable=greet
     )
 
     task2 = PythonOperator(
