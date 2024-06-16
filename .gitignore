@@ -11802,3 +11802,12 @@ airflow-docker/logs/dag_id=dag_with_postgres_operator_v3/run_id=scheduled__2024-
 airflow-docker/logs/scheduler/2024-06-15/dag_with_catchup_and_backfill.py.log
 airflow-docker/logs/scheduler/2024-06-15/dag_with_cron_expression.py.log
 airflow-docker/logs/scheduler/2024-06-15/dag_with_postgres_operator.py.log
+airflow-docker/logs/dag_id=dag_with_python_dependencies_v02/run_id=scheduled__2024-06-15T00:00:00+00:00/task_id=get_matplotlib_version/attempt=1.log
+airflow-docker/logs/dag_id=dag_with_python_dependencies_v02/run_id=scheduled__2024-06-15T00:00:00+00:00/task_id=get_sklearn_version/attempt=1.log
+airflow-docker/logs/scheduler/2024-06-16/dag_with_catchup_and_backfill.py.log
+airflow-docker/logs/scheduler/2024-06-16/create_dag_with_python_operator.py.log
+airflow-docker/logs/scheduler/2024-06-16/dag_with_cron_expression.py.log
+airflow-docker/logs/scheduler/2024-06-16/dag_with_postgres_operator.py.log
+airflow-docker/logs/scheduler/2024-06-16/dag_with_python_dependencies.py.log
+airflow-docker/logs/scheduler/2024-06-16/dag_with_taskflow_api.py.log
+airflow-docker/logs/scheduler/2024-06-16/our_first_dag.py.log
